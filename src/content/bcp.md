@@ -3,7 +3,7 @@ title: Bloque de Control del Proceso (BCP)
 date: 2023-10-10
 author: Leonardo José De la cruz Ardila
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: src/img/cola-inicial.png
+img: src\img\cola-inicial.png
 imgWidth: 800
 imgHeight: 500
 ---
