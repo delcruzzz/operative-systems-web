@@ -10,8 +10,8 @@ export type Post = {
 	timestamp: number,
 	draft: boolean,
 	date: string,
-	file: string,
-	img: string,
+	file: URL,
+	img: URL,
 }
 
 export function single(post: MarkdownInstance): Post {
