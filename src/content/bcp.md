@@ -2,7 +2,7 @@
 title: Bloque de Control del Proceso (BCP)
 date: 2023-10-10
 author: Leonardo José De la cruz Ardila
-desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
+desc: El bloque de control del proceso (BCP) o en inglés PCB (Process Control Block) es un registro especial donde el sistema operativo agrupa toda la información...
 img: https://jose7331.files.wordpress.com/2016/10/cola-inicial.png
 imgWidth: 800
 imgHeight: 500

@@ -2,7 +2,7 @@
 title: Virtualización
 date: 2023-10-10
 author: Leonardo José De la cruz Ardila
-desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
+desc: La virtualización es una tecnología que se puede usar para crear representaciones virtuales de servidores, almacenamiento, redes y otras máquinas físicas...
 img: https://www.dnsstuff.com/wp-content/uploads/2019/12/Types-of-Virtualization-1024x536.jpg
 imgWidth: 800
 imgHeight: 500
